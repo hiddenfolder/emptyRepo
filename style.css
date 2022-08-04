@@ -1,0 +1,47 @@
+body {
+    background-color: lightgray;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+}
+
+h2 {
+    background-color: gray;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding: 10px;
+    width: 1300px;
+    margin: 0px 0px 0px 280px;
+}
+
+p em {
+    color: red;
+}
+
+p strong {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    position: relative;
+    top: 100px; left: 350px;
+    width: 100px;
+    height: 150px;
+}
+
+p {
+    text-indent: 25px;
+    width: 800px;
+    position: relative;
+    left: 500px; bottom: 50px; 
+}
+
